@@ -1,0 +1,12 @@
+# ignora l'eseguibile
+compiler
+# ignora i file intermedi si ottengono con il makefile
+parser.c
+scanner.c
+token.h
+parser.output
+*.zip
+*.txt
+a.out
+# output del compilatore
+traduzione.go
