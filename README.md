@@ -31,7 +31,7 @@ For basic usage:
 ./compiler {input_file.c}
 ```
 
-For a complete [documentation](https://github.com/a-difazio/c-to-go/tree/main/doc).
+For a complete [documentation](https://github.com/a-difazio/c-to-go/tree/master/doc).
 
 ## Contact
 
